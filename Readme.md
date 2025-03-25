@@ -68,9 +68,5 @@ To run the project using Docker:
    ```bash
    docker run --rm blockchain-simulation
    ```
-
-## Contact
-For any questions, email: hr@quadbtech.com with the subject **Full Stack Developer Task Query**.
-
 ## License
 MIT License.
