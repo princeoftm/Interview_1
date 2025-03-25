@@ -26,7 +26,7 @@ This project is a basic blockchain simulation built using Python. It demonstrate
    ```
 2. Run the script:
    ```bash
-   python simple_blockchain.py
+   python x.py
    ```
 3. The program will:
    - Create a genesis block
